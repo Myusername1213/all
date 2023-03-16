@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-latest change main branch
-=======
-ok
-main2 change
->>>>>>> main2
+n1 change
